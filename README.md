@@ -68,7 +68,7 @@ This project provides an exploratory analysis of customer churn data for a bank 
 
 ##  Next Steps
 
-- Build predictive churn models using Python or Power BI
+- Build predictive churn models using excel
 - Deeper analysis using logistic regression or classification models
 
 ---
